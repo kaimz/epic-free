@@ -1,4 +1,4 @@
-2023-12-21 06:24:02 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
-2023-12-21 06:24:07 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'DNF Duel', 'url': 'https://store.epicgames.com/en-US/p/dnf-duel-07d055'}
-2023-12-21 06:24:11 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/dnf-duel-07d055'}
-2023-12-21 06:24:25 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
+2023-12-22 06:23:18 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
+2023-12-22 06:23:24 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Melvor Idle', 'url': 'https://store.epicgames.com/en-US/p/melvor-idle-b6a9b3'}
+2023-12-22 06:23:28 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/melvor-idle-b6a9b3'}
+2023-12-22 06:23:44 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
