@@ -1,8 +1,8 @@
-2023-12-30 06:23:14 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
-2023-12-30 06:23:22 | INFO    | __main__:claim_epic_games:97 | Try to flush cookie - {'task': 'claim_epic_games'}
-2023-12-30 06:23:24 | SUCCESS    | epic_games.agent:_login:253 | login - {'result': 'Successfully refreshed tokens'}
-2023-12-30 06:23:34 | SUCCESS    | epic_games.agent:flush_token:280 | flush_token - {'path': PosixPath('/home/runner/work/epic-free/epic-free/epic/user_data_dir/epic-games@1075199251/ctx_cookie.json')}
-2023-12-30 06:23:34 | WARNING    | epic_games.agent:get_order_history:467 | Failed to get order history, cookie may have expired - {}
-2023-12-30 06:23:35 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Snakebird Complete', 'url': 'https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae'}
-2023-12-30 06:23:35 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae'}
-2023-12-30 06:23:49 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
+2023-12-31 06:23:03 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
+2023-12-31 06:23:11 | INFO    | __main__:claim_epic_games:97 | Try to flush cookie - {'task': 'claim_epic_games'}
+2023-12-31 06:23:13 | SUCCESS    | epic_games.agent:_login:253 | login - {'result': 'Successfully refreshed tokens'}
+2023-12-31 06:23:23 | SUCCESS    | epic_games.agent:flush_token:280 | flush_token - {'path': PosixPath('/home/runner/work/epic-free/epic-free/epic/user_data_dir/epic-games@1075199251/ctx_cookie.json')}
+2023-12-31 06:23:23 | WARNING    | epic_games.agent:get_order_history:467 | Failed to get order history, cookie may have expired - {}
+2023-12-31 06:23:23 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Saints Row', 'url': 'https://store.epicgames.com/en-US/p/saints-row'}
+2023-12-31 06:23:23 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/saints-row'}
+2023-12-31 06:23:38 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
