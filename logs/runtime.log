@@ -1,8 +1,8 @@
-2024-03-09 06:26:12 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
-2024-03-09 06:26:22 | INFO    | __main__:claim_epic_games:97 | Try to flush cookie - {'task': 'claim_epic_games'}
-2024-03-09 06:26:24 | SUCCESS    | epic_games.agent:_login:253 | login - {'result': 'Successfully refreshed tokens'}
-2024-03-09 06:26:35 | SUCCESS    | epic_games.agent:flush_token:280 | flush_token - {'path': PosixPath('/home/runner/work/epic-free/epic-free/epic/user_data_dir/epic-games@1075199251/ctx_cookie.json')}
-2024-03-09 06:26:35 | WARNING    | epic_games.agent:get_order_history:467 | Failed to get order history, cookie may have expired - {}
-2024-03-09 06:26:35 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Astro Duel 2', 'url': 'https://store.epicgames.com/en-US/p/astro-duel-2-e1261d'}
-2024-03-09 06:26:35 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/astro-duel-2-e1261d'}
-2024-03-09 06:26:51 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
+2024-03-10 06:25:59 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
+2024-03-10 06:26:09 | INFO    | __main__:claim_epic_games:97 | Try to flush cookie - {'task': 'claim_epic_games'}
+2024-03-10 06:26:10 | SUCCESS    | epic_games.agent:_login:253 | login - {'result': 'Successfully refreshed tokens'}
+2024-03-10 06:26:17 | SUCCESS    | epic_games.agent:flush_token:280 | flush_token - {'path': PosixPath('/home/runner/work/epic-free/epic-free/epic/user_data_dir/epic-games@1075199251/ctx_cookie.json')}
+2024-03-10 06:26:18 | WARNING    | epic_games.agent:get_order_history:467 | Failed to get order history, cookie may have expired - {}
+2024-03-10 06:26:18 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Astro Duel 2', 'url': 'https://store.epicgames.com/en-US/p/astro-duel-2-e1261d'}
+2024-03-10 06:26:18 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/astro-duel-2-e1261d'}
+2024-03-10 06:26:33 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
