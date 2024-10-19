@@ -1,7 +1,7 @@
-2024-10-19 06:31:04 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
-2024-10-19 06:31:08 | WARNING    | epic_games.agent:get_order_history:467 | Failed to get order history, cookie may have expired - {}
-2024-10-19 06:31:08 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Kardboard Kings', 'url': 'https://store.epicgames.com/en-US/p/kardboard-kings-0962f8'}
-2024-10-19 06:31:08 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Invincible Presents: Atom Eve', 'url': 'https://store.epicgames.com/en-US/p/atom-eve-ff090d'}
-2024-10-19 06:31:13 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/kardboard-kings-0962f8'}
-2024-10-19 06:31:48 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/atom-eve-ff090d'}
-2024-10-19 06:32:01 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
+2024-10-20 06:30:17 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
+2024-10-20 06:30:21 | WARNING    | epic_games.agent:get_order_history:467 | Failed to get order history, cookie may have expired - {}
+2024-10-20 06:30:21 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Kardboard Kings', 'url': 'https://store.epicgames.com/en-US/p/kardboard-kings-0962f8'}
+2024-10-20 06:30:21 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Invincible Presents: Atom Eve', 'url': 'https://store.epicgames.com/en-US/p/atom-eve-ff090d'}
+2024-10-20 06:30:25 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/kardboard-kings-0962f8'}
+2024-10-20 06:31:00 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/atom-eve-ff090d'}
+2024-10-20 06:31:14 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
